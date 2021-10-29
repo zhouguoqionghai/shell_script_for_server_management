@@ -2,11 +2,11 @@
 将管理脚本加入到 `~/.bashrc` 当中，只有在第一次启动 `msys2` 终端时，需要输入密钥对应的密码，之后密钥交给 ssh-agent 来管理，登陆服务器不再需要密码。
 直接使用 shell 函数启动 ssh 登陆，无需记住 `IP`.
 
-![案例](D:\project\shell_script_for_server_management\example.png)
+![案例](https://github.com/zhouguoqionghai/shell_script_for_server_management/blob/master/example.png)
 
 使用 `sv5` 登陆对应的服务器。
 
-![login](D:\project\shell_script_for_server_management\login.png)
+![login](https://github.com/zhouguoqionghai/shell_script_for_server_management/blob/master/login.png)
 
 #### 用法
 
